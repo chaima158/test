@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.79fd2045.css",
+    "main.js": "/test/static/js/main.5b123418.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/test/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/light-hero-bg.jpg": "/test/static/media/light-hero-bg.c9bce72c69f86814eba4.jpg",
+    "static/media/robot.gif": "/test/static/media/robot.0617a41936621e9697cd.gif",
+    "static/media/loader.gif": "/test/static/media/loader.b40fc3d91ff1f4db53e2.gif",
+    "static/media/hero-img.png": "/test/static/media/hero-img.d253c017c57be8422f18.png",
+    "static/media/img1.png": "/test/static/media/img1.a0fca9c51749c1ee3db5.png",
+    "static/media/img2.png": "/test/static/media/img2.f5f922c9b93eaf2c4065.png",
+    "static/media/img3.png": "/test/static/media/img3.6b1484548ee065fd59b5.png",
+    "static/media/logo.svg": "/test/static/media/logo.ccfbd90732828204fa6989c0f15638c0.svg",
+    "index.html": "/test/index.html",
+    "main.79fd2045.css.map": "/test/static/css/main.79fd2045.css.map",
+    "main.5b123418.js.map": "/test/static/js/main.5b123418.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/test/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79fd2045.css",
+    "static/js/main.5b123418.js"
+  ]
+}
